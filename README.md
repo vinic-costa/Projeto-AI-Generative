@@ -16,7 +16,7 @@ Chat para projetos da Alura com intuito de melhorar a rapidez e eficiencia em re
 
 ## Mobile
 
-<img width="400" height="400" alt="Screenshot Edição de grupo" src="./screenshots/mobile01.jpeg"> | <img width="400" height="400" alt="Screenshot Edição de grupo" src="./screenshots/mobile02.jpeg">
+<img width="300" height="600" alt="Screenshot Edição de grupo" src="./screenshots/mobile01.jpeg"> | <img width="300" height="600" alt="Screenshot Edição de grupo" src="./screenshots/mobile02.jpeg">
 ---
 
 Como rodar:
