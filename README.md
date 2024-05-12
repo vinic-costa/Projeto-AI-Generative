@@ -21,13 +21,13 @@ Chat para projetos da Alura com intuito de melhorar a rapidez e eficiencia em re
 
 Como rodar:
 
-Na pasta raiz e na pasta frontend execute:
+Na pasta raiz execute:
 
 ```shell
 npm i
 ```
 
-Novamente na pasta Raiz, primeiramente, e depois na pasta frontend, execute o comando:
+Novamente na pasta raiz execute o comando:
 
 ```shell
 npm start
