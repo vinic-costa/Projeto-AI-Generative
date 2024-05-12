@@ -127,7 +127,7 @@ export const Sidebar = (props: SidebarProps) => {
                     className="mx-3 my-5 py-1 border border-dashed text-sm text-center text-gray-200 hover:bg-slate-600 transition-all rounded-sm cursor-pointer"
                     onClick={() => navigate(newChatUrl)}
                 >
-                    {t("components.Sidebar.new_chat")}
+                    {t("Nova receita")}
                 </div>
             )}
             <div className="flex flex-col space-y-2 p-2 mb-auto">
