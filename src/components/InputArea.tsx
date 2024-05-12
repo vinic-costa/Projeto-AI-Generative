@@ -35,7 +35,7 @@ export const InputArea = forwardRef(
         const [inputPlaceholder, setInputPlaceholder] = useState("");
         const [attachmentName, setAttachmentName] = useState("");
 
-        const defaultPrompt = "Escreva uma prescrição em formato de ponteiro ordenada por nome do medicamento, sintomas, diagnóstico primário, uso e dosagem do medicamento na imagem. Certifique-se de pedir à pessoa que visite o médico se o problema persistir.";
+        const defaultPrompt = "Escreva uma prescrição em formato de ponteiro ordenada (pulando uma linha em cada item) por nome do medicamento, sintomas, diagnóstico primário, uso e dosagem do medicamento na imagem. Certifique-se de pedir à pessoa que visite o médico se o problema persistir. Se você não tiver certeza de qual medicamento é diga que é impossível identificar e peça para consultar um especialista";
 
         const handleSubmit = () => {
             onSubmit(defaultPrompt); // Usa o prompt padrão
